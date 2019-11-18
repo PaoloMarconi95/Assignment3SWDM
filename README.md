@@ -11,3 +11,5 @@ Implementation of Custom SonarQube Rules.
 * [Rules Implementation](https://github.com/PaoloMarconi95/Assignment3SWDM/tree/master/src/main/java/org/sonar/samples/java/checks)
 
 * [Test Cases](https://github.com/PaoloMarconi95/Assignment3SWDM/tree/master/src/test/files)
+
+* [Final .jar file to include in your Sonar Server](https://github.com/PaoloMarconi95/Assignment3SWDM/tree/master/Jar%20file)
